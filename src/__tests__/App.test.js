@@ -3,7 +3,7 @@ import { shallow } from 'enzyme';
 
 import App from '../App';
 
-describe('Simple Jest Unit Testing', () => {
+describe('App Component', () => {
 
   it('renders App', () => {
     // Arrange.

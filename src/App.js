@@ -6,7 +6,7 @@ function App(props) {
       Welcome to React App
       {props.country && (
         <Fragment>
-          , <span>{props.country}</span>
+          ,<span>{props.country}</span>
         </Fragment>
       )}{" "}
       without React CLI.
